@@ -1,4 +1,4 @@
-module google.golang.org/grpc
+module github.com/ben-l909/custom-grpc
 
 go 1.22
 
